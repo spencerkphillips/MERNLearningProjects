@@ -1,0 +1,5 @@
+# Ignore secure environment variables
+.env
+
+# Ignore node_modules and vendor utilities
+node_modules
